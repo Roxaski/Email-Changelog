@@ -5,8 +5,8 @@
 I built a responsive changelog email template using Maizzle, Tailwind CSS and Vue.
 
 ## Requirements
-[Node.js](https://nodejs.org/en) | v18.20 minimum.
-[Git](https://git-scm.com/)
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en) | v18.20 minimum.
 
 ## Installation
 
