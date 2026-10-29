@@ -1,0 +1,6 @@
+@import "@maizzle/tailwindcss";
+
+@theme {
+  --font-sans: Poppins, Arial, Helvetica, sans-serif;
+  --font-poppins: Poppins, Arial, Helvetica, sans-serif;
+}
