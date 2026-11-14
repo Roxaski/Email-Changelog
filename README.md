@@ -2,7 +2,7 @@
 ![Email Changelog](https://github.com/user-attachments/assets/a82b052e-1bf6-460c-84dd-0d808ea596f1#gh-dark-mode-only)
 
 # Email-Changelog
-I built a responsive changelog email template using Maizzle, Tailwind CSS and Vue.
+I designed a responsive changelog email template using Maizzle, Tailwind CSS and Vue.
 
 ## Requirements
 - [Git](https://git-scm.com/)
